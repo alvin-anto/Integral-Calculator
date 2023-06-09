@@ -1,11 +1,3 @@
-/**
- * ALVIN ANTO
- * NET ID: AXA220139
- * UTD ID: 2021686750
- * CS 2337.002
- * PROJECT 3
- */
-
 #ifndef Node_h
 #define Node_h
 
@@ -55,34 +47,3 @@ public:
 };
 
 #endif /* Node_h */
-
-
-
-
-
-
-
-
-
-
-
-
-
-//method which calls the overloaded << in the object class that is stored in the node
-//std::string toString();
-
-//templated toString method which calls the overloaded << in the object class that is stored in the node
-//template <typename T>
-//std::string Node<T>::toString()
-//{
-//    //creating a string stream tempStream
-//    std::stringstream tempStream;
-//    //storing the data in the node to the variable x
-//    T x = getData();
-//    //pushing the data in the node to tempStream using the overloaded << in the object class that is stored in the node
-//    tempStream << x;
-//    //storing the contents in tempStream to a string variable data
-//    std::string data = tempStream.str();
-//    //return data
-//    return data;
-//}
