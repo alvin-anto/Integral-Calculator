@@ -1,0 +1,17 @@
+| -cos 5x+x^3+1 dx
+| 0 dx
+| 3x^2+ 2x + 1 dx
+| sin x + cos x dx
+| 1 - cos 4x-cos 4x dx
+| 3x^4-6x^2+2sin10x dx
+| 2x^2 + x^2 + 2x + 1 dx
+1|4 x^-2 +3x+4 dx
+-2|2 x^3-4x dx
+| 3x^4 + 13x^2+5x^-5 +1 dx
+| 0 dx
+| sin x-cos x dx
+| sin x + cos x+x^2+x+ 1 dx
+| sin10x - cos4x+ 7x^6 + 5x- x^-2 + x^-7 dx
+| 45sin 45x + 30 cos 30x + 15sin 15x+x^2 - 5x + 3x^-2 dx
+| -cos 5x+x^3+1
+| 0 dx
